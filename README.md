@@ -1,8 +1,4 @@
-# DevNewsWebScrapper
-
-Bienvenid@!
-
-Este simplemente es un visualizador de titulares, para poder leer el artículo completo visite la web del autor.
+# Selenium Articles Scraper
 
 - [x] [midudev](https://midu.dev/)
 - [x] [James Sinclair](https://jrsinclair.com/)
@@ -16,4 +12,3 @@ Este simplemente es un visualizador de titulares, para poder leer el artículo c
 - [x] [CSS-tricks](https://css-tricks.com/archives/)
 - [ ] [Digitalocean](https://www.digitalocean.com/community/tutorials)
 - [ ] [dev.to](https://dev.to/)
-    - [ ] Buscador por temas
